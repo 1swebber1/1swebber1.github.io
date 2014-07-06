@@ -1,0 +1,37 @@
+<!Doctype html>
+<html>
+<head>
+<title> DBC 1</title>
+<link rel="stylesheet"type="text/css" href=dbc1_2.css/>
+<style>
+  body {
+  	background-color: #420600;
+  }
+  </style>
+  </head>
+   
+  <body>
+  <h1>My name is Scott Webber</h1>
+  <p>Hello, my name is <span class="greenboldtext">Scott Webber</span>. I am a 22 year old recent gradute of Loyola University Chicago. During my delightful four years in the city I have been studying Graphic design and plan to help use the teaching of Dev Bootcamp to further my career path.</p>
+
+  <h2>Why Dev Bootcamp</h2>
+  <p style="color: #ff0000;">After completing my degree at Loyola I realized there was one field in which as a designer I was immensly missing out on; that being the development and production of orginal websites. Not that i couldn't design one but that I didn;t know how to properly code one in order to make my very own without any sort of host for example like Wordpress. </p>
+
+  <h3>Teaching Myself</h3>
+  <p> Although this has not been easy I have decided that the only thing to do is to keep pusching ang get through it. The pay off will be huge in the grand scheme of things and I only have great things to look forward to.<p>
+
+  <h4>Hobbies</h4>
+  <ul>Snowboarding:
+    Golf
+    Soccer
+    Illustration
+    </ul>
+<a href="http://www.scottwwebber.squarespace.com">SWEBBY</a>
+
+
+
+
+
+
+
+
