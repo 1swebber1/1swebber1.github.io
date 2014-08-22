@@ -6,7 +6,7 @@
 
 
 @font-face {
-	font-family:'Lobster', cursive;
+	font-family:'Courgette', cursive;
 }
 
 #wrapper{
@@ -29,7 +29,7 @@
 		list-style: none;
 		color: #fff;
 		font-size: 16px;
-		font-family: 'Lobster';
+		font-family: 'Courgette';
 		}
 		#nav ul li:hover {
 			color: orange;
@@ -68,7 +68,7 @@
 		opacity: 0.8;
 	}
 	#intro p {
-		font-family: 'Lobster';
+		font-family: 'Courgette';
 		font-size: 18px;
 		color: black;
 		text-align: center;
@@ -84,7 +84,7 @@
 	}
 
 #contentleft ul {
-	font-family: 'Lobster';
+	font-family: 'Courgette';
 	font-size: 16px;
 	padding-top: 60px;
 }
